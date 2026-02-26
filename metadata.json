@@ -1,0 +1,8 @@
+{
+  "name": "WMHI Nexus",
+  "description": "Internal communication and job tracking portal for West Midlands Home Improvements, replacing disjointed WhatsApp workflows with a centralized, AI-enhanced command center.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
